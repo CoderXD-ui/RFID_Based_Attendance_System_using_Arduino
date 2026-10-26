@@ -20,7 +20,7 @@ For a detailed explanation of the project's methodology, results, and presentati
 ## Circuit Wiring
 The MFRC522 module operates on **3.3V**. **DO NOT connect it to 5V**, as it may damage the module.
 
-![Circuit Diagram](public/circuit_diagram.png)
+"C:\Users\KIIT\Downloads\circuit_diagram.png"
 
 | MFRC522 Pin | Arduino Uno Pin |
 |-------------|-----------------|
